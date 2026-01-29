@@ -1,15 +1,14 @@
-### Valerya Rivera Diaz
-
-
 # Computer Science Student 
 Busco crear experiencia en mi rama de estudios para refinar mi preparacion para mi futuro laborar. 
 
 ### Educacion
 Universidad de Puerto Rico, Recinto de Mayaguez
-Bachillerat Ciencias de Computacion
+
+Bachillerato Ciencias de Computacion
 
 ### Habilidades tecnicas 
 Utilizacion de Fedora Linux 
+
 Entendimiento del lenguaje C++
 
 
@@ -22,7 +21,11 @@ Sin experiencia profecional.
 
 ### Habilidades adicionales
 Bilingue: ingles y español
+
 Trabajo en equipo 
+
 Manejo de Redes sociales
+
 Aprendizaje rapido
+
 Responsable
