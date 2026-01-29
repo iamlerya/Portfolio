@@ -1,3 +1,6 @@
+### Valerya Rivera Diaz
+
+
 # Computer Science Student 
 Busco crear experiencia en mi rama de estudios para refinar mi preparacion para mi futuro laborar. 
 
