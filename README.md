@@ -5,11 +5,19 @@ Busco crear experiencia en mi rama de estudios para refinar mi preparacion para 
 Universidad de Puerto Rico, Recinto de Mayaguez
 Bachillerat Ciencias de Computacion
 
+### Habilidades tecnicas 
+Utilizacion de Fedora Linux 
+Entendimiento del lenguaje C++
+
+
+
 ### Experiencia Laborar 
 Sin experiencia profecional. 
 
-### Habilidades
-Conocimiento de C++
+### Proyectos
+
+
+### Habilidades adicionales
 Bilingue: ingles y español
 Trabajo en equipo 
 Manejo de Redes sociales
