@@ -1,1 +1,17 @@
-# Portfolio
+# Computer Science Student 
+Busco crear experiencia en mi rama de estudios para refinar mi preparacion para mi futuro laborar. 
+
+### Educacion
+Universidad de Puerto Rico, Recinto de Mayaguez
+Bachillerat Ciencias de Computacion
+
+### Experiencia Laborar 
+Sin experiencia profecional. 
+
+### Habilidades
+Conocimiento de C++
+Bilingue: ingles y español
+Trabajo en equipo 
+Manejo de Redes sociales
+Aprendizaje rapido
+Responsable
